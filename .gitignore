@@ -1,0 +1,13 @@
+# Node / React
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Environment & private config
+.env
+backend/config/database.php
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
